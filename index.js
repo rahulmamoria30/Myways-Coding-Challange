@@ -1,6 +1,5 @@
 var ph = prompt("Please enter your number");
-// prompt();
-// var ph = parseInt(x);
+
 var sum = 0;
 var i = 0;
 while (i < 10) {
